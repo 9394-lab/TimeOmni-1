@@ -1,0 +1,6 @@
+torch
+transformers
+vllm
+numpy
+tqdm
+huggingface_hub
