@@ -50,7 +50,7 @@
 
 </div>
 
-**This repository provides minimal installation and usage scripts for TimeOmni-1.**
+**This repository provides installation and usage scripts for TimeOmni-1.**
 
 ---
 
