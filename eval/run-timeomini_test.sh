@@ -4,7 +4,7 @@ ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 export ROOT_DIR
 python "$ROOT_DIR/install/download_testbed.py" --out_dir "$ROOT_DIR/data"
 
-MODEL_DIR=${MODEL_DIR:-"/mnt/disk4/hf_cache/hub/models--anton-hugging--TimeOmni-1-7B/snapshots/4c11fa68b66ab482bb2e7f5050a53a1e1770a3b5"}
+MODEL_DIR=${MODEL_DIR:-"Your Local Model Path"}
 ANS_ID_PATH=${ANS_ID_PATH:-"$ROOT_DIR/answer/timeomni1_test/id_outputs.json"}
 RES_ID_PATH=${RES_ID_PATH:-"$ROOT_DIR/answer/timeomni1_test/id_results.json"}
 ANS_OOD_PATH=${ANS_OOD_PATH:-"$ROOT_DIR/answer/timeomni1_test/ood_outputs.json"}
