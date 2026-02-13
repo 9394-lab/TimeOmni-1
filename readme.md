@@ -39,7 +39,7 @@
     />
   </a>
 
-  <a href="https://github.com/9394-lab/TimeOmni-1" target="_blank" style="margin: 2px;">
+  <a href="https://github.com/AntonGuan/TimeOmni-1" target="_blank" style="margin: 2px;">
     <img
       src="https://img.shields.io/badge/TimeOmni--1-Inference%20Code-536af5?logo=github&logoColor=white"
       style="display: inline-block; vertical-align: middle;"
