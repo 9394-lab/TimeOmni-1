@@ -113,10 +113,12 @@ We report Success Rate (SR), defined as the proportion of model outputs that yie
 ## ✍️ Citation
 
 ```bibtex
-@article{guan2025timeomni,
-  title={Timeomni-1: Incentivizing complex reasoning with time series in large language models},
-  author={Guan, Tong and Meng, Zijie and Li, Dianqi and Wang, Shiyu and Yang, Chao-Han Huck and Wen, Qingsong and Liu, Zuozhu and Siniscalchi, Sabato Marco and Jin, Ming and Pan, Shirui},
-  journal={arXiv preprint arXiv:2509.24803},
-  year={2025}
+@inproceedings{
+guan2026timeomni,
+title={TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models},
+author={Tong Guan and Zijie Meng and Dianqi Li and Shiyu Wang and Chao-Han Huck Yang and Qingsong Wen and Zuozhu Liu and Sabato Marco Siniscalchi and Ming Jin and Shirui Pan},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=kOIclg7muL}
 }
 ```
